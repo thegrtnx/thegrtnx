@@ -44,6 +44,6 @@ A fullstack web developer residing at Ekiti State.Nigeria
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)
-
 ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/797?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)
