@@ -43,3 +43,12 @@ src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/thegrtnx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrilmohamod&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
+
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
