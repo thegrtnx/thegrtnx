@@ -1,7 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Greatness Abolade
 ======================================================================================================================================
 
-FullStack Web Developer
+FullStack Web Developer - 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
+</p>
 
 -----------------------
 
@@ -42,13 +48,4 @@ src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-b
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/thegrtnx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrilmohamod&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-
-
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
