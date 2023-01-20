@@ -18,10 +18,11 @@ FullStack Web Developer
 
 <a href="https://www.twitter.com/thegrtnx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/> VISITOR COUNT: <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" /></a>
+/> </a>
 
+<br/><br/>
 
-
+<p>VISITOR COUNT: <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" /></p>
 
 
 ### Skills
