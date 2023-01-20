@@ -1,13 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Greatness Abolade
 ======================================================================================================================================
 
-FullStack Web Developer - 
-<a href=#><img src="contributions.svg"></a>
+FullStack Web Developer 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
-</p>
 
 -----------------------
 
@@ -17,9 +12,20 @@ FullStack Web Developer -
 * 🚀  I'm currently working on [DotPedia](http://dotpedia.com.ng)
 * 🧠  I'm learning NodeJs, React
 
+
+<a href=#><img src="contributions.svg"></a>
+
+
 <a href="https://www.twitter.com/thegrtnx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/> <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
+</p></a>
+
+
+
+
 
 ### Skills
 
