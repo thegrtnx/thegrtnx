@@ -20,9 +20,9 @@ FullStack Web Developer
 src="https://img.shields.io/twitter/follow/thegrtnx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /> </a>
 
-<br/><br/>
+<br/>
 
-<p>VISITOR COUNT: <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" /></p>
+<p> VISITOR COUNT: <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" /></p>
 
 
 ### Skills
