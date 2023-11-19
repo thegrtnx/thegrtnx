@@ -28,7 +28,10 @@ achieve exceptional results.
 </div>
 
 
-<p> VISITOR COUNT: <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" /></p>
+## 👀 Vistors Count
+
+<img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
+
 
 ## 📊 GitHub Stats
 
