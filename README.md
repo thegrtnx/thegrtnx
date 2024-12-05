@@ -15,7 +15,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
-
+<br>
 
 ## 👨‍💻 Stack & Languages Used
 
@@ -238,6 +238,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
+<br>
 
 ## 📊 GitHub Stats
 
@@ -247,6 +248,8 @@ I'm Greatness Abolade, a certified software engineer.
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5" alt="GitHub Streak" />
   </a>
+
+  <br>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -258,12 +261,10 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
+<br>
 
 ## 📱 Contact Me 
 
-[![](https://visitcount.itsvg.in/api?id=thegrtnx&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
-
-![](https://hit.yhype.me/github/profile?user_id=49532326)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/thegrtnx">
@@ -274,8 +275,13 @@ I'm Greatness Abolade, a certified software engineer.
   </a>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=thegrtnx&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
-## 👀 Profile Views
+
+
+![](https://hit.yhype.me/github/profile?user_id=49532326)
+
+
 
 <!--<img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />-->
 
