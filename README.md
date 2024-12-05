@@ -237,6 +237,13 @@ I'm Greatness Abolade, a certified software engineer.
 </table>
 
 
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegrtnx)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
+
+
 ## 📱 Contact Me
 
 <div id="badges">
@@ -249,19 +256,11 @@ I'm Greatness Abolade, a certified software engineer.
 </div>
 
 
-## 👀 Vistors Count
+## 👀 Profile Views
 
 <img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thegrtnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ⌨️ Most Used Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegrtnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegrtnx)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
