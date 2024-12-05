@@ -249,7 +249,7 @@ I'm Greatness Abolade, a certified software engineer.
     <img src="https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5" alt="GitHub Streak" />
   </a>
 
-  <br>  <br>  <br>
+  <br>  <br> 
 
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
