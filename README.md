@@ -2,15 +2,18 @@ Hi there, [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-I'm Greatness Abolade, a software engineer specializing
-in crafting innovative solutions for real-world challenges.
-My expertise spans Next.js, React.js, Tailwind.css, Node.js,
-Nest.js, Express.js, MongoDB, MySQL, PHP, Git, PWAs, and
-SEO. With a robust career, I'm committed to creating impactful
-solutions for human-centered problems. I continuously refine
-my capabilities by staying updated on the latest technological
-insights and engaging in community-driven strategies to
-achieve exceptional results.
+I'm Greatness Abolade, a certified software engineer.
+
+## About Me
+
+- **Frontend Web Development**: Passionate about building web applications with **Next.js**, **React.js**, and **Progressive Web Apps (PWA)**.
+- **Backend Services**: Skilled in developing backend solutions using **Nest.js**, **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **Prisma ORM**.
+- **DevOps**: Fluent in managing DevOps tools such as **Caddy**, **Docker**, **AWS**, and **GCP**.
+- **Cross-Platform Mobile Apps**: Experienced in building mobile applications with **React Native**, **Expo**, and **Flutter (Dart)**.
+- **Automation & Robotics**: A strong advocate for automation and robotics with hands-on experience using **Arduino** and **Raspberry Pi**.
+
+---
+
 
 
 ## 👨‍💻 Stack & Languages 
