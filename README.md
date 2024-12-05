@@ -236,15 +236,34 @@ I'm Greatness Abolade, a certified software engineer.
     </tr>
 </table>
 
+---
+
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegrtnx)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thegrtnx&theme=dark&hide_border=true&border_radius=3.5" alt="GitHub Streak" />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=thegrtnx" alt="Anurag's GitHub Stats" />
+  </a>
+
+</div>
 
 
-## 📱 Contact Me
+---
+
+
+## 📱 Contact Me 
+
+[![](https://visitcount.itsvg.in/api?id=thegrtnx&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
+
+![](https://hit.yhype.me/github/profile?user_id=49532326)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/thegrtnx">
@@ -258,7 +277,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ## 👀 Profile Views
 
-<img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
+<!--<img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />-->
 
 
 
