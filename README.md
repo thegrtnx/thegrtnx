@@ -6,11 +6,12 @@ I'm Greatness Abolade, a certified software engineer.
 
 ## About Me
 
-- **Frontend Web Development**: Passionate about building web applications with **Next.js**, **React.js**, and **Progressive Web Apps (PWA)**.
-- **Backend Services**: Skilled in developing backend solutions using **Nest.js**, **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **Prisma ORM**.
-- **DevOps**: Fluent in managing DevOps tools such as **Caddy**, **Docker**, **AWS**, and **GCP**.
-- **Cross-Platform Mobile Apps**: Experienced in building mobile applications with **React Native**, **Expo**, and **Flutter (Dart)**.
-- **Automation & Robotics**: A strong advocate for automation and robotics with hands-on experience using **Arduino** and **Raspberry Pi**.
+- **Frontend Web Development**: Passionate about crafting responsive and dynamic web applications with **Next.js**, **React.js**, and **Progressive Web Apps (PWA)**.
+- **Backend Development**: Experienced in building robust backend solutions using **Nest.js**, **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **Prisma ORM**.
+- **Self-Hosted Infrastructure**: Expert in setting up and managing self-hosted infrastructure, including **VPS/VDS**, **Coolify**, **Cloudflare**, DNS configurations, **CDN**, and **load balancing**.
+- **DevOps**: Proficient in DevOps practices, utilizing tools like **Caddy**, **Docker**, **AWS**, and **GCP** for continuous integration, deployment, and infrastructure management.
+- **Cross-Platform Mobile Development**: Skilled in building high-performance mobile applications with **React Native**, **Expo**, and **Flutter (Dart)**.
+- **Automation & Robotics**: Enthusiastic about automation and robotics, with hands-on experience using **Arduino** and **Raspberry Pi** for innovative projects.
 
 ---
 
