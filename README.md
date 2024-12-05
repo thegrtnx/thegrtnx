@@ -15,7 +15,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
-<br>
+
 
 ## 👨‍💻 Stack & Languages Used
 
@@ -238,7 +238,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
-<br>
+
 
 ## 📊 GitHub Stats
 
@@ -261,7 +261,7 @@ I'm Greatness Abolade, a certified software engineer.
 
 ---
 
-<br>
+
 
 ## 📱 Contact Me 
 
