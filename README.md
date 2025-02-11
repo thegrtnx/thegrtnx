@@ -2,7 +2,7 @@ Hi there, [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-I'm Greatness Abolade, a certified software engineer.
+I'm Greatness Abolade, a Certified Software Engineer | Expertise in Front-end Web Development, Back-end Web Development, DevOps, Cross Platform Mobile Applications and Blockchain | Open Source Contributor
 
 ## About Me
 
